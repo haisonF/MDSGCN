@@ -5,7 +5,7 @@ Cancer constitutes a significant global public health challenge, resulting in mi
 
 
 
-![workflow](E:\MDSGCN\workflow.png)
+![workflow](workflow.png)
 
 ​    **The workflow of MDSGCN**
 
